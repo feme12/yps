@@ -4,9 +4,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url("https://images-ext-2.discordapp.net/external/wtpPbYAzw2tvIa5oYMsK9AgEpqpdm55iCgKjkQOpUqw/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1079664333572800573/4a7b1dd38e17e4824cfefd88bdbf31a2.png");
     background-size: cover;
-    backdrop-filter: blur(9px);
   }
   
   .container {
